@@ -1,6 +1,6 @@
 {
   "name": "component-b",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "react-dom": "^16.8.3"
   },
   "dependencies": {
-    "component-c": "^1.0.0"
+    "component-c": "^1.0.1"
   }
 }

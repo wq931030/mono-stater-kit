@@ -1,6 +1,6 @@
 {
   "name": "www-a",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^3.13.6",
-    "component-a": "^1.0.0",
+    "component-a": "^1.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
