@@ -3,7 +3,7 @@ import ComponentC from 'component-c';
 
 export default () => (
   <div>
-    component-b
+    component-blllllllll
     <ComponentC />
   </div>
 );
