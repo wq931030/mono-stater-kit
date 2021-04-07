@@ -1,0 +1,29 @@
+{
+  "name": "www-c",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "王琴 <qinwang@cloubfactory.com>",
+  "homepage": "https://github.com/wq931030/mono-stater-kit#readme",
+  "license": "MIT",
+  "main": "lib/www-c.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wq931030/mono-stater-kit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wq931030/mono-stater-kit/issues"
+  },
+  "dependencies": {
+    "component-c": "1.0.1"
+  }
+}
