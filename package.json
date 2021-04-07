@@ -13,11 +13,6 @@
     "start:www-b": "lerna run start --parallel --scope www-b --scope component-b --scope component-c",
     "clean": "lerna clean && rm -rf node_modules"
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
